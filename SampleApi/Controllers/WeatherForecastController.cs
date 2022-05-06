@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ namespace SampleApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    [EnableCors("")]
+    [EnableCors("Sample")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
