@@ -9,6 +9,7 @@ namespace SampleApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [EnableCors("")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]

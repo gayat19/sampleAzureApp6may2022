@@ -286,11 +286,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\d drive\\Corp\\Kanini\\Feb2022\\Participants\\New folder (2)\\SampleApi\\SampleApi\\SampleApi.csproj",
+      "projectUniqueName": "C:\\Users\\gayat\\OneDrive\\Desktop\\Deploy\\SampleApi\\SampleApi\\SampleApi.csproj",
       "projectName": "SampleApi",
-      "projectPath": "D:\\Data\\d drive\\Corp\\Kanini\\Feb2022\\Participants\\New folder (2)\\SampleApi\\SampleApi\\SampleApi.csproj",
+      "projectPath": "C:\\Users\\gayat\\OneDrive\\Desktop\\Deploy\\SampleApi\\SampleApi\\SampleApi.csproj",
       "packagesPath": "C:\\Users\\gayat\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\d drive\\Corp\\Kanini\\Feb2022\\Participants\\New folder (2)\\SampleApi\\SampleApi\\obj\\",
+      "outputPath": "C:\\Users\\gayat\\OneDrive\\Desktop\\Deploy\\SampleApi\\SampleApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
